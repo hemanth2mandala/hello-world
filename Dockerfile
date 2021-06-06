@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:7.0.109-jdk8-openjdk-buster
+From tomcat:8.0.20-jre8 
 
 # Maintainer 
 
